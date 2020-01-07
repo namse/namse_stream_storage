@@ -1,0 +1,376 @@
+안녕 친구들
+Hello my friends!
+
+0 Kcal 이온음료!
+0 Kcal Sports Drink!
+
+
+미국 사람들은 Kcal 쓰나?
+Does American use Kcal for calory?
+
+아저씨 여기서 주무시면 안돼요
+Don't sleep, Kermit!
+
+fuck you i am king
+
+이상해요
+Something wrong this Camera
+
+주둥이 다문 사람
+주 다 사
+ZOODASA Goggle
+
+
+이상한 컴퓨터
+My computer sucks
+
+
+ekejaqu0217: 바탕화면에 아이콘이 많으면...느려집니다 ㅎㅎ
+그리구 저장장치의 20퍼센트는 남겨놓으셔야 적당하게 빨라요 ㅎㅎ
+- If there are many icons in Desktop, it make computer slow.
+And it would be better keep 20% of enough space of storage
+
+-> "바탕화면에 아이콘이 많으면...느려집니다 ㅎㅎ"는 농담이시죠?
+그짓말쟁이 ㅎㅎ
+
+원리를 말씀해주세요
+Let me know about principle
+
+뭘 지워야하지
+What should i remove
+
+만들고 싶은 거랑 되게 비슷한 제품을 찾았음
+I found very similar product
+with what i want to make
+
+Framer X
+프레이머 X
+
+
+항상 눈을 크게 뜨고 싶어요.
+눈 크게 뜬게, 게슴츠레하게 뜬 것 보다 나은거같음
+턱을 당기고 있으면 눈이 크게 떠지네
+
+I want to open my eyes always big.
+Because it seems better making eyes big.
+If i pull my chin, it make my eyes big :)
+
+CHIN - UP
+친 업 아세요?
+
+
+
+State + Action
+
+모든 프로그램은 State와 Action으로
+나타낼 수 있는가?
+Can every program be composed
+with State and Action?
+
+제가 수업때 "컴퓨터는 3가지 행동을 한다"라고 했어요
+I told you "Computer only to 3 things"
+
+1. Save Data
+2. Compute
+3. Load Data
+
+1. 저장
+2. 계산
+3. 불러오기
+
+
+저 위의 3개를 State와 Action으로 바꾸면?
+Let's change above 3 things to State & Action
+
+1. Save State
+2. Update State
+3. Load State
+
+1. 상태 저장
+2. 상태 업데이트
+3. 상태 불러오기
+
+
+OHHOHOHOHOHOHOHOHOHOHOHOHOHOHO
+오오옿오홍호옿ㅇ홍홍ㅎ오호옿옿ㅇㅎ
+
+괜춘한데?
+Seems Good
+Sims Good
+
+
+WA!
+SANS!
+
+사람들이 아니래요 ㅎㅎ
+배틀그라운드도 60프레임 이상으로 돌리는 컴퓨터가
+아이콘 몇개로 느려지는건 좀 이상한거같아요.
+얘넨 이미 수십 수백만개의 파일들을 다 색인해놓는걸요.
+
+생활에 저장이라는게 무슨뜻인지 몰겠어요
+SSD라서 그렇게 안느려질거같아요.
+안켰지롱 ㅎㅎ
+
+
+1. Save State 상태 저장
+Can I Save state in file or memory?
+상태를 파일이나 메모리에 저장할 수 있습니까?
+Of course you can
+당근 빠따죠
+
+2. Update State 상태 업데이트
+We call "Update State" as "Action"
+우리는 "상태 업데이트"를 "액션"이라고 부릅니다.
+Can we save all action in memory or file?
+우리는 모든 액션을 메모리나 파일에 저장할 수 있나요?
+Of course! Source code! Script! Executable File!
+당근 빠따죠! 소스 코드! 스크립트! 실행 파일!
+
+3. Load State 상태 불러오기
+Dude, of course even we don't have to think.
+님하 당근 빠따 생각조차 안해도 됨.
+
+
+Goal : Coding Together by Designer and Programmer
+목표 : 디자이너와 프로그래머가 함께 코딩하기
+
+Q. How detail Designer wants to make code?
+Q. 디자이너는 얼마나 디테일하게 코드를 만들기 원함?
+-> Updating State...?
+-> 상태 업데이트 정도...?
+--> Toggling "Button Pressed" state and set images?
+--> "버튼 눌림" 상태를 껐켰하면서 이미지 설정하기?
+--> Page Transition
+--> 화면 전환
+--> They want to change state easily to check Design!
+--> 디자인을 확인하기 위해서 상태를 쉽게 변경하고 싶어요!
+--> They want fake data.
+--> 가짜 데이터가 필요해요.
+
+
+Q. If they use fake data, then they should use fake logic?
+Q. 만약 가짜 데이터를 사용할거면, 가짜 로직을 써야함?
+-> Not very "MUST"
+-> 무조건 그럴 필요는 없을 수 있음
+--> Use different logic on environment(...State?)?
+--> 환경(...상태?)에 따라 다른 로직 사용하기?
+
+Q. For Designer, should we support Drag & Drop coding?
+Q. 디자이너를 위해선 드래그 앤 드롭으로 코딩할 수 있어야 하는가?
+... UE4 Blueprint?
+... 언리얼 엔진 블루프린트?
+
+Can we support D&D and Keyboard together?
+드래그 앤 드롭이랑 키보드 둘 다 지원할 수 있을까?
+
+It must be compatible between "D&D Code <-> Manual Code"
+"Drag & Drop 한 코드 <--> 직접 짠 코드" 가 완벽히 호환되어야 함
+
+언어를 만든다?
+Make new language?
+
+언어 만드는건 너무 빡새
+It's very hard to make language fuckfuckfuckfuckfuckfu
+
+아니? 안빡새.
+No? Not very hard
+
+중간언어 쓰면 되잖아
+We can use intermediate language!
+
+like a.... Typescript!
+타입스크립트처럼 말이지!
+
+Let's Think in sample.
+예제를 보면서 생각해봅시다.
+
+function OnStartButtonClicked() {
+  UpdateState("ABC", 5);
+  await RequestToServer();
+
+}
+
+Drag And Drop으로 만들어진 코드는 가독성이 있을까?
+Do generated code from D&D has enough readability?
+
+Async Await는 어케하지...
+
+Is it like a Scratch?
+스크래치 같은거 만들려느거?
+ㅇㅇ
+Yes
+
+근데 코드를 직접 키보드로도 짤 수 있는 스크래치를 원함
+But I want that I can make code using keyboard Scratch
+
+
+
+
+Wicky020: when are you going to code again?
+@ I'm on Programming. Planing, Architecting!
+님 언제 코드 짬?
+지금 프로그래밍 하고 있어요. 계획 세우고 설계하고 있어요.
+
+win8792: 남세님 정확히 언제 방송 하시나요?
+When exactly do stream namse?
+
+모르겠어요
+IDK
+
+win8792: vs2019 코드 짰는거 하드에 어떻게 넣어요?
+How to put my code of vs2019 into hard drive?
+
+지금은 어디에 저장되어있는데요? 그거 폴더 통째로 옮기시면 돼요.
+Where did you save? just move whole folder.
+
+SSD에 내비두는게 좋을텐데 ㅎㅎ
+I recommend save code in SSD
+
+배그 외장하드로 돌아가나요,?
+Can we run PUBG using External HDD?
+
+네 근데 비추해요 ㅎㅎ
+Yes but NOT RECOMMEND
+
+로딩이 매우 느릴거에요.
+Because of fucking slow loading
+
+이스 더... is the... 퍼킹 슬로우 로딩 오케이?
+
+SATA 꼽으세용
+Use SATA
+sata가 왜 1개밖에 없어요?
+Why you have only one sata?
+
+No Mic Namse? No Mic Namse.
+
+저게 다 sata잖아요;;;
+ㅇㅋ;
+
+나중에 이것도 프로그래밍 해봅시다.
+Let's hack this glasses too!
+여러분 채팅이 안경에서 나오게 하면 재미있을듯 ㅋㅋ
+It will be very fun puting your chat on my glasses :)
+
+win8792: ssd sata 꼽을려면 메인보드 해체 쇼 해야되나요,,?
+do I have to "MainBoard Disaasemble Show"
+to put ssd in sata?
+
+케이스에 보면 ssd 고정하는 곳이 있을거에요.
+거기에 고정하고
+케이블 연결하세요
+그럼 끝
+
+You can find the place to fix your ssd in case.
+Put your ssd there
+connect cable
+done.
+
+한두번 맡기기 시작하면 죽을때까지 맡기는건 있는데,
+굳이 막 자기가 하고 싶은거 아니면 굳이 하지 마시고 맡기셈 ㅋㅋ
+
+모든 사람이 다 컴퓨터 조립을 할 필요는 없지
+Not everybody have to be able to fix computer.
+
+win8792: ssd는 용량 얼마짜리 살가요? 게임을 많이합니다.
+How big ssd should i buy? i play game a lot.
+
+필요하고 돈 되는 만큼 사세요.
+Buy as you want in your budget.
+
+저는 지금 전부 합치면 500gb인데, 엄청 모자라요.
+For me, total of ssd storage size is 500gb, not enough.
+
+SSD는 삼성인거 아시죠?
+You know SSD is samsung ok?
+
+How can glasses react with sound?
+안경이 소리에 어케 반응함?
+-> In App, they use Mic. DAE_BAC
+-> 앱에서 마이크 써요. 대박
+
+What is Da Jungle?
+
+win8792: 남세님 겜 안해요?
+Don't you play game Namse?
+오늘은 안할래요
+Not today :)
+
+How to make language namse sensei?
+언어는 어떻게 만드나요?
+
+세종대왕님께...
+Ask to Great King Sejong...
+
+비밀
+Secret
+
+크게 3가지로 이루어져있어요.
+It is composed in 3 parts.
+
+1. 언어 파악
+2. 최적화 (부가적임)
+3. 저급 언어로 변환 (혹은 실행)
+
+1. Parsing language
+2. Optimization (optional)
+3. Trans-code into low-level language(or jst execute)
+
+단순한 언어는 컴공에서 하나쯤은 만들어볼거에요. 수업이 있어요
+Maybe they make 1 simple language in Univ. in class.
+
+
+How to make 'first' language?
+'첫' 언어는 어떻게 만드나요?
+
+언어는 약속이란 말을 들어본 적이 있나요?
+Have you ever heard that language is contract?
+
+"야, 1011 이라고 하면 화면에 출력해"
+"Hey, just print if I say 1011"
+
+이런식으로 몇가지를 미리 정해놓아요.
+Just make some command.
+
+그럼 끝.
+Then done!
+
+그럼 하드웨어 개발자들도 저 약속에 맞게 만들면 돼요.
+Then hardware dev also make there product in that contract.
+
+그것을 우리는 "표준"이라고 부르죠.
+We call it "STANDARD"
+
+X86 이란 말 들어보셨죠?
+Have you ever heard X86?
+
+그런애들이 다 그런애들임
+They are that kind of thing.
+
+
+람넷 (peantal0): 0버튼 1버튼 2개 주고
+프로그래밍 하라면 가능할까요ㅋㅋ
+Can people programming with button 0 and 1, only 2 buttons?
+
+쌉가능
+Absolutely
+
+그들은 그것을 실제로 해냈습니다.
+They do that :)
+
+win8792: 저급 언어와 고급 언어의 장단점은 무엇 일까요?
+What is Pros and Cons for Low level Language and High one?
+
+Low Level Language = Fast (No, it's joke)
+저급 언어 = 빠름 (구라임)
+
+High Level Language = Save time
+고급 언어 = 시간 아낌
+
+천재들이 고급언어를 저급언어레벨로 잘 뽑아낸다면?
+If genius can transcode high level lang in level of low?
+
+BAMB!
+
+"저급 언어는 빠르다 빠르다" 하지만 님 코드는 안빠름 ^^7
+"Low level language is fast", but not your code ^^7
